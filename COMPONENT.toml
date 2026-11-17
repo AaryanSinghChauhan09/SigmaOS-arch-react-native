@@ -3,7 +3,7 @@ name = "SigmaOS-arch-react-native"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-react-native component"
+description = "SigmaOS SigmaOS-arch-react-native component"
 upstream = []
 
 [contract]
