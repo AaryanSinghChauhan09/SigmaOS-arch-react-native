@@ -1,6 +1,6 @@
-# SigmaOS-arch-react-native
+# SigmaOS-react-native
 
-SigmaOS SigmaOS-arch-react-native component
+SigmaOS SigmaOS-react-native component
 
 - **Category:** Components
 - **Engine:** component

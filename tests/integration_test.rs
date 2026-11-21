@@ -1,4 +1,4 @@
-use arch_react_native::Component;
+use sigmaos_react_native::Component;
 
 #[test]
 fn test_component_new_aaa() {
